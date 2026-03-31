@@ -1,13 +1,28 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate full stack developer from Spain</h3>
+<a href="https://ibb.co/Jh1CMJL"><img src="https://i.ibb.co/N4v7HBh/1774990369.png" alt="1774990369" border="0"></a>
+<a href="https://ibb.co/v6NgXLk8"><img src="https://i.ibb.co/RkXZjQcW/Banner-Final.png" alt="Banner-Final" border="0"></a>
 
-<img src="[https://hosting.photobucket.com/c75fca12-a997-4e13-922f-5e23904266ec/c77938c1-f406-42cd-8a8f-cff1a3a03905.jpg)" alt="Descripción de la imagen" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabtomg&label=Profile%20views&color=0e75b6&style=flat" alt="tabtomg" /> </p>
 
 
 - 🔭 I’m currently working on **MusiCar**
 
+
+<details>
+  <summary>☎️ Contact me</summary>
+<div>
+  <samp>
 - 📫 How to reach me **mgtoireland@gmail.com**
+<br>
+
+[![@TapToMg](https://img.icons8.com/fluency/48/000000/linkedin.png "@TapToMg")](https://linkedin.com/in/tapformagr) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
+
+
+</samp>
+</div>
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
