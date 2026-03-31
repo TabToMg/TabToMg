@@ -13,7 +13,7 @@
         <a href="https://wa.me/353851407041"><img src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44" alt="WhatsApp" /></a>
         <a href="mailto:mgtoireland@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF" alt="Gmail" /></a>
         <a href="https://linkedin.com/in/tabtomg"><img src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF" alt="LinkedIn" /></a>
-        <a href="https://www.youtube.com/c/rompecuellos1"><img src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112" alt="YouTube" /></a>
+        <a href="https://www.youtube.com/rompecuellos1"><img src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112" alt="YouTube" /></a>
     </div>
     
 
