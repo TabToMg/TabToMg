@@ -1,7 +1,7 @@
  <div align=center>
   <img src="https://i.ibb.co/gn26BK1/1774990369.png" alt="1774990369" border="0">
   </div>
-  
+
   <div align=center>
 <img src="https://i.ibb.co/RkXZjQcW/Banner-Final.png" alt="Banner-Final" border="0">
 </div>
@@ -10,25 +10,35 @@
 <div align=center>
         <a href="https://github.com/TabToMg"><img src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF" alt="GitHub" /></a>
         <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6" alt="Discord" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44" alt="WhatsApp" /></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <a href="https://wa.me/353851407041"><img src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44" alt="WhatsApp" /></a>
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZcsFHkhJHqLjplckmFxKHfdxZdqtgChJjCjzcxbFNMbZcCDrdNwVtTwKQPFPgbclXklkB"><img src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF" alt="Gmail" /></a>
+        <a href="https://linkedin.com/in/tabtomg"><img src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF" alt="LinkedIn" /></a>
+        <a href="https://www.youtube.com/c/rompecuellos1"><img src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112" alt="YouTube" /></a>
     </div>
     
-<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6"> <img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44"> <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112">
-
-
-
-
-
-
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabtomg&label=Profile%20views&color=0e75b6&style=flat" alt="tabtomg" />
 
 
 
 
+<details>
+  <summary>Portfolio</summary>
+<div>
+  <samp>
+Not yet
+  </samp>
+  </div>
+</details>
 
+<details>
+  <summary>Projects</summary>
+<div>
+  <samp>
+Not yet
+  </samp>
+  </div>
+</details>
 
 <details>
   <summary>Contact me</summary>
