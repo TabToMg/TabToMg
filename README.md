@@ -9,9 +9,9 @@
 
 <div align=center>
         <a href="https://github.com/TabToMg"><img src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF" alt="GitHub" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6" alt="Discord" /></a>
+        <a href="https://discord.gg/ep4tQDEZ"><img src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6" alt="Discord" /></a>
         <a href="https://wa.me/353851407041"><img src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44" alt="WhatsApp" /></a>
-        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZcsFHkhJHqLjplckmFxKHfdxZdqtgChJjCjzcxbFNMbZcCDrdNwVtTwKQPFPgbclXklkB"><img src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF" alt="Gmail" /></a>
+        <a href="mailto:mgtoireland@gmail.com"><img src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF" alt="Gmail" /></a>
         <a href="https://linkedin.com/in/tabtomg"><img src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF" alt="LinkedIn" /></a>
         <a href="https://www.youtube.com/c/rompecuellos1"><img src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112" alt="YouTube" /></a>
     </div>
