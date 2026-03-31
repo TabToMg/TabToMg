@@ -1,11 +1,21 @@
-<div style="text-align: center;">
+ <div align=center>
   <img src="https://i.ibb.co/gn26BK1/1774990369.png" alt="1774990369" border="0">
+  </div>
+  
+  <div align=center>
 <img src="https://i.ibb.co/RkXZjQcW/Banner-Final.png" alt="Banner-Final" border="0">
 </div>
 
 
-
- </p><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6"> <img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44"> <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112">
+<div align=center>
+        <a href="https://github.com/TabToMg"><img src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF" alt="GitHub" /></a>
+        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6" alt="Discord" /></a>
+        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44" alt="WhatsApp" /></a>
+        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
+        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+    
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-Future%20Style-DarkBlue?logo=github&color=2EB9FF"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%20?logo=discord&color=4832E6"> <img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-%20?logo=whatsapp&color=2BFF44"> <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%20?logo=gmail&color=FFFFFF"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&color=1299FF"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%20?logo=youtube&color=FF4112">
 
 
 
@@ -28,7 +38,8 @@
     
 <br>
 
-[![@TabToMg](https://img.icons8.com/fluency/48/000000/linkedin.png "@TapToMg")](https://linkedin.com/in/tapformg)[![@TabToMg](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@TabToMg")](tel:+353851407041)[![@TabToMg](https://img.icons8.com/fluency/48/000000/apple-mail.png "@TabToMg")](mgtoireland@gmail.com)
+
+[![@TabToMg](https://img.icons8.com/fluency/48/000000/linkedin.png "@TapToMg")](https://linkedin.com/in/tabtomg)[![@TabToMg](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@TabToMg")](tel:+353851407041)[![@TabToMg](https://img.icons8.com/fluency/48/000000/apple-mail.png "@TabToMg")](mgtoireland@gmail.com)
 
 <a href="https://www.youtube.com/c/rompecuellos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rompecuellos1" height="39" width="40" /></a>
 <br>
