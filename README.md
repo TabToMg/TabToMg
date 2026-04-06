@@ -28,7 +28,8 @@
   <samp>
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/TabToMg%20Portfolio-green?style=for-the-badge&color=41AFFA&link=https%3A%2F%2Ftabtomg.vercel.app%2F">
+<a href="https://tabtomg.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/TabToMg%20Portfolio-green?style=for-the-badge&color=41AFFA"></a>
+
 
   </samp>
   </div>
