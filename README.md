@@ -39,7 +39,16 @@
   <summary>Projects</summary>
 <div>
   <samp>
-Not yet
+<div align="center">MusiCar2
+
+<img alt="Static Badge" src="https://img.shields.io/badge/MusiCar2-Project-green?logo=github&color=F54927">
+
+<img src="https://i.ibb.co/DDn7vXsw/Screenshot1.png" alt="Screenshot1" border="0">
+
+
+
+</div>
+
   </samp>
   </div>
 </details>
