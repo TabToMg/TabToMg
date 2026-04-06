@@ -39,15 +39,14 @@
   <summary>Projects</summary>
 <div>
   <samp>
-<div align="center">MusiCar2
-
-<img alt="Static Badge" src="https://img.shields.io/badge/MusiCar2-Project-green?logo=github&color=F54927">
-
-<img src="https://i.ibb.co/DDn7vXsw/Screenshot1.png" alt="Screenshot1" border="0">
 
 
-
+<div align="left"><a href="https://github.com/TabToMg/MusiCar"><img src="https://i.ibb.co/rRCkrzT9/PR1F.png" alt="PR1F" border="0"></a><a href="https://github.com/TabToMg/MgOpenGravity-Agent"><img src="https://i.ibb.co/VcrQbkj8/PR2F.png" alt="PR2F" border="0"></a>
 </div>
+<img alt="Static Badge" src="https://img.shields.io/badge/MusiCar2-Live-blue?style=for-the-badge&logo=github"> <img alt="Static Badge" src="https://img.shields.io/badge/OpenGravity-Live-blue?style=for-the-badge&logo=github">
+
+
+
 
   </samp>
   </div>
