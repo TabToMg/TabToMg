@@ -43,7 +43,9 @@
 
 <div align="left"><a href="https://github.com/TabToMg/MusiCar"><img src="https://i.ibb.co/rRCkrzT9/PR1F.png" alt="PR1F" border="0"></a><a href="https://github.com/TabToMg/MgOpenGravity-Agent"><img src="https://i.ibb.co/VcrQbkj8/PR2F.png" alt="PR2F" border="0"></a>
 </div>
-<img alt="Static Badge" src="https://img.shields.io/badge/MusiCar2-Live-blue?style=for-the-badge&logo=github"> <img alt="Static Badge" src="https://img.shields.io/badge/OpenGravity-Live-blue?style=for-the-badge&logo=github">
+<a href="https://drive.google.com/file/d/1HFWFY9pS9dkjpAaNS8NDxBV7zWynS8-9/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/MusiCar2-Demo-blue?style=for-the-badge&logo=github">
+</a> <a href="https://tabtomg.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/OpenGravity-Demo%20(not%20ready)-blue?style=for-the-badge&logo=github">
+</a>
 
 
 
